@@ -4,6 +4,11 @@
 
 Hello there! 👋 I am an IT professional from Brazil with a keen interest in backend development and a solid foundation in technology. I have gained valuable experience working on web, mobile, and database projects, and I’m always eager to expand my skills and take on new challenges.
 
+<div align="center">
+    My Portifolio: <br>
+    >> <a href="http://gabrielcasanova.com.br/">http://gabrielcasanova.com.br/</a> <<
+</div>
+
 ## 📚 Education
 - **Vocational Certificate in Information Technology (2022-2024)**
   - ISERJ/FAETEC - Rio de Janeiro Institute of Education
@@ -22,11 +27,6 @@ Hello there! 👋 I am an IT professional from Brazil with a keen interest in ba
 ### Currently learning
 <div align=center>
     <img src="https://skillicons.dev/icons?i=tailwind,ts,nodejs,react&perline=5">
-</div>
-
-### Stats
-<div align=center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabcasanova&layout=compact&theme=dark">
 </div>
 
 ## 👥 Social
