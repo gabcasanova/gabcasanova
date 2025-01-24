@@ -26,7 +26,7 @@ Hello there! 👋 I am an IT professional from Brazil with a keen interest in ba
 
 ### Currently learning
 <div align=center>
-    <img src="https://skillicons.dev/icons?i=tailwind,ts,nodejs,react&perline=5">
+    <img src="https://skillicons.dev/icons?i=tailwind,ts,nodejs,react,mongodb&perline=5">
 </div>
 
 ## 👥 Social
