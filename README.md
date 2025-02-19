@@ -11,13 +11,9 @@ Hello there! 👋 I am an IT professional from Brazil with a keen interest in ba
 
 ## 📚 Education
 - **Vocational Certificate in Information Technology (2022-2024)**
-  - ISERJ/FAETEC - Rio de Janeiro Institute of Higher Education
-  - During my three years of technical training, I built a solid foundation and acquired valuable skills in programming, systems development, and data modeling, with a focus on backend Java web development.
   - Developed the school management system [EduSyst](https://github.com/gabcasanova/EduSyst) as my final project.
 
 - **Bachelor's Degree in Computer Science (2025-)**
-  - UERJ - Rio de Janeiro State University
-  - In progress
 
 ## 🔧 Tech skills
 <div align=center>
