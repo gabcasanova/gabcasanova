@@ -2,7 +2,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&duration=2000&color=F7F7F7&vCenter=true&multiline=true&repeat=false&width=320&height=150&lines=Gabriel+;Casanova+%F0%9F%92%BE" alt="Typing SVG" /></a>
 </div>
 
-Hello there! 👋 I am a computer science student from Brazil with a keen interest in backend web development. I have gained valuable experience working on web, mobile, and database projects, and I’m always eager to expand my skills and take on new challenges.
+Hello there! 👋 I am a 20 year old computer science student from Brazil with a keen interest in backend web development. I have gained valuable experience working on web, mobile, and database projects, and I’m always eager to expand my skills and take on new challenges.
 
 <div align="center">
     My Portifolio: <br>
