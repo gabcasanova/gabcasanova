@@ -17,12 +17,12 @@ Hello there! 👋 I am a 20 year old computer science student from Brazil with a
 
 ## 🔧 Tech skills
 <div align=center>
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,php,wordpress,java,androidstudio,mysql&perline=5">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,php,wordpress,java,androidstudio,mysql,tailwind,ts,nodejs,react&perline=5">
 </div>
 
 ### Currently learning
 <div align=center>
-    <img src="https://skillicons.dev/icons?i=tailwind,ts,nodejs,react,mongodb&perline=5">
+    <img src="https://skillicons.dev/icons?i=mongodb&perline=5">
 </div>
 
 ## 👥 Social
