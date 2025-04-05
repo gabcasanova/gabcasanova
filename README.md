@@ -10,7 +10,7 @@ Hey there! 👋 I’m someone who enjoys building things that make life a little
 </div>
 
 ## 📚 Education
-- **Vocational Certificate in Information Technology (2022-2024)** | ISERJ - Rio de Janeiro Higher Institute of Education
+- **Associate Degree in Information Technology (2022-2024)** | ISERJ - Rio de Janeiro Higher Institute of Education
   - Developed the school management system [EduSyst](https://github.com/gabcasanova/EduSyst) as my final project.
 
 - **Bachelor's Degree in Computer Science (2025-)** | UERJ - Rio de Janeiro State University
