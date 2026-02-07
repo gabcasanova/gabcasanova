@@ -2,7 +2,9 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&duration=2000&color=F7F7F7&vCenter=true&multiline=true&repeat=false&width=320&height=150&lines=Gabriel+;Casanova+%F0%9F%92%BE" alt="Typing SVG" /></a>
 </div>
 
-Hey there! 👋 I’m someone who enjoys building things that make life a little smoother — whether that’s creating smart, user-friendly web experiences or finding better ways to organize information behind the scenes. I like blending creativity with practicality, and I'm always up for solving problems in ways that feel intuitive and efficient. I enjoy making things that feel simple, thoughtful, and useful — for both the people using them and the people building them.
+👋 Hi! My name is Gabriel Casanova.
+I am a multidisciplinary professional working in game design, game production, game development, and web development.
+I enjoy working at the intersection of creativity and technology. I am always looking to learn, collaborate, and contribute to meaningful projects!
 
 <div align="center">
     My Portifolio: <br>
